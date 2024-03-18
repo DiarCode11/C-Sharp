@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\bin\Debug\net8.0\PermainanDerek.exe
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\bin\Debug\net8.0\PermainanDerek.deps.json
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\bin\Debug\net8.0\PermainanDerek.runtimeconfig.json
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\bin\Debug\net8.0\PermainanDerek.dll
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\bin\Debug\net8.0\PermainanDerek.pdb
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.dll
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\refint\PermainanDerek.dll
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.pdb
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\PermainanDerek.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PermainanDerek\PermainanDerek\obj\Debug\net8.0\ref\PermainanDerek.dll
